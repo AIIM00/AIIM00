@@ -46,4 +46,4 @@ Git, GitHub, Postman, VS Code, npm
 ## 📫 Connect With Me
 
 - GitHub: [AIIM00](https://github.com/AIIM00)
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: www.linkedin.com/in/ali-ibrahim-aiim003
